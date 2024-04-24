@@ -1,0 +1,12 @@
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\bin\Debug\net8.0\EvaStudents.Models.deps.json
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\bin\Debug\net8.0\EvaStudents.Models.dll
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\bin\Debug\net8.0\EvaStudents.Models.pdb
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.csproj.AssemblyReference.cache
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.AssemblyInfoInputs.cache
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.AssemblyInfo.cs
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.csproj.CoreCompileInputs.cache
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.dll
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\refint\EvaStudents.Models.dll
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\EvaStudents.Models.pdb
+C:\Users\salon\source\repos\EvaStudents\EvaStudent.Models\obj\Debug\net8.0\ref\EvaStudents.Models.dll
